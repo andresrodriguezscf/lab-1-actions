@@ -1,4 +1,4 @@
-name: lab2
+name: lab1
 on:
   push:
     branches:
